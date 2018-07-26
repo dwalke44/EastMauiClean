@@ -1,0 +1,19 @@
+How to install HSHEP East Maui from GitHub in R
+
+1. Install devtools:
+	install.packages("devtools")
+2. Load devtools into current R session:
+	library(devtools)
+3. In the command line, enter the following:
+	install_github("dwalke44/EastMauiClean/eastMaui")
+4. The eastMaui package will auto install the packages that it needs to work.
+
+
+How to install the files needed to run the East Maui Package.
+
+1. Go to : https://drive.google.com/open?id=1p1bhtsLeKzZrsektFp2KcFERBs2rGYvy
+2. Download the zipped eastMaui file.
+3. Unzip the East Maui file into the path that will be the working directory.
+4. Set the working directory in R to find the now unzipped folder.
+	setwd("C:/Users/.../location_of_folder_containing_raw_data_and_output_folders")
+NOTE: the zipped file has a copy of the East Maui package within it, but if you followed the first instructions, the East Maui package will already be installed properly.
