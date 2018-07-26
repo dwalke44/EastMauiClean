@@ -16,4 +16,5 @@ How to install the files needed to run the East Maui Package.
 3. Unzip the East Maui file into the path that will be the working directory.
 4. Set the working directory in R to find the now unzipped folder.
 	setwd("C:/Users/.../location_of_folder_containing_raw_data_and_output_folders")
-NOTE: the zipped file has a copy of the East Maui package within it, but if you followed the first instructions, the East Maui package will already be installed properly.
+NOTE: the zipped file has a copy of the East Maui package within it, but if you followed the first instructions,
+the East Maui package will already be installed properly.
