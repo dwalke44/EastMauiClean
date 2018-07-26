@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528227894932.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2590143082",
+    "id" : "25A7DD4B",
+    "lastKnownWriteTime" : 1528230104,
+    "last_content_update" : 1528230104911,
+    "path" : "~/Programming/Trutta/HSHEP/EMaui/EMpackage/eastMaui/scripts/InsectHabNotes.R",
+    "project_path" : "scripts/InsectHabNotes.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

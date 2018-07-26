@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531328042967.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "53B31490",
+    "lastKnownWriteTime" : 5581212700365514087,
+    "last_content_update" : 1531328042967,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FC6B42A6",
+        "caption" : "instream1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=instream1&cache_key=FC6B42A6",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "object" : "instream1",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 322
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

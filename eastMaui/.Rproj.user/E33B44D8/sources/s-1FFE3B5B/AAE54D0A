@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528227845136.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "428260625",
+    "id" : "AAE54D0A",
+    "lastKnownWriteTime" : 1528301333,
+    "last_content_update" : 1528301333504,
+    "path" : "~/Programming/Trutta/HSHEP/EMaui/EMpackage/eastMaui/R/InsectHab.R",
+    "project_path" : "R/InsectHab.R",
+    "properties" : {
+        "cursorPosition" : "35,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

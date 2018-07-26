@@ -1,0 +1,22 @@
+Package: eastMaui
+Type: Package
+Title: Generate Habitat and Water Production Estimates
+Version: 0.1.0
+Authors@R: c(
+  person("Daniel", "Walker", email = "walker.dan890@gmail.com", role = c("aut", "cre")),
+  person("James", "Parham", email = "jim.parham@truttasolutions.com", role = c("aut"))
+  )
+Maintainer: Daniel Walker, Ph.D. <walker.dan890@gmail.com>
+Description: This package contains the functions necessary to compute water output and available habitat for freshwater  
+    species in East Maui watersheds.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  tidyverse,
+  formattable,
+    gridExtra,
+    knitr,
+    readxl,
+    openxlsx
+RoxygenNote: 6.0.1

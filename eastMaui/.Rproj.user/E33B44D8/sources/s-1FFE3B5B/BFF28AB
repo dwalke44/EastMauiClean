@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525819199331.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "2|63|2482|0|\n",
+    "hash" : "3959164928",
+    "id" : "BFF28AB",
+    "lastKnownWriteTime" : 1531321277,
+    "last_content_update" : 1531323849299,
+    "path" : "~/Programming/Trutta/HSHEP/EMaui/EMpackage/eastMaui/R/BasinEquations_habitat_v_0.3.R",
+    "project_path" : "R/BasinEquations_habitat_v_0.3.R",
+    "properties" : {
+        "cursorPosition" : "2483,0",
+        "scrollLine" : "0",
+        "source_window_id" : ""
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

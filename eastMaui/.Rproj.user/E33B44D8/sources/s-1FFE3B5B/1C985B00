@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528227291207.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2715699007",
+    "id" : "1C985B00",
+    "lastKnownWriteTime" : 1531316767,
+    "last_content_update" : 1531324025146,
+    "path" : "~/Programming/Trutta/HSHEP/EMaui/EMpackage/ModelOutputReportv0.6.rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "138,0",
+        "last_setup_crc32" : "E41C43A4d4f388c7",
+        "scrollLine" : "124"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531328246586.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3486916986",
+    "id" : "58F2F0AC",
+    "lastKnownWriteTime" : 1531327902,
+    "last_content_update" : 1531327902,
+    "path" : "~/Programming/Trutta/HSHEP/EMaui/EMpackage/eastMaui/test/water_v_0.3.R",
+    "project_path" : "test/water_v_0.3.R",
+    "properties" : {
+        "cursorPosition" : "722,45",
+        "scrollLine" : "710"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

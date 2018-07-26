@@ -1,0 +1,6 @@
+"0","writexl::write_xlsx(ditch.dat1, paste(getwd(), ""/eastMaui/rawData/ditchVolumes.xlsx"", sep = """"))
+"
+"1","[1]"
+"1"," ""C:\\Users\\danwa\\Documents\\Programming\\Trutta\\HSHEP\\EMaui\\EMpackage\\eastMaui\\rawData\\ditchVolumes.xlsx"""
+"1","
+"

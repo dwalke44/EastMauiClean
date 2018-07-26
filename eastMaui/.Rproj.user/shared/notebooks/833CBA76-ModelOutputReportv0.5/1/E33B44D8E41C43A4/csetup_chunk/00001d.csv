@@ -1,0 +1,6 @@
+"0","writexl::write_xlsx(watersheds.n, paste(getwd(), ""/eastMaui/outputs/watershedsFinal.xlsx"", sep = """"))
+"
+"1","[1]"
+"1"," ""C:\\Users\\danwa\\Documents\\Programming\\Trutta\\HSHEP\\EMaui\\EMpackage\\eastMaui\\outputs\\watershedsFinal.xlsx"""
+"1","
+"

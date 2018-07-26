@@ -1,0 +1,8 @@
+"0","# --------------------------------------------
+# --------------------------------------------
+# Habitat Modeling - FISH
+htest1 = basin.fun(nodesh.mat, habitatInput.mat, waterImpactedHab.nat)
+"
+"2","Error in basin.fun(nodesh.mat, habitatInput.mat, waterImpactedHab.nat) : 
+  object 'WshedhabABsp' not found
+"

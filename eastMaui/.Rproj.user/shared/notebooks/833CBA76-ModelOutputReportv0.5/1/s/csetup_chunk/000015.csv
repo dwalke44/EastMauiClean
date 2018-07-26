@@ -1,0 +1,7 @@
+"0","nodes = nodes[order(nodes$ID), ]
+nodes0 = nodes0[order(nodes0$ID), ]
+nodes1 = nodes1[order(nodes1$ID), ]
+nodes2 = nodes2[order(nodes2$ID), ]
+"
+"2","Error: object 'nodes2' not found
+"
