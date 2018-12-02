@@ -1,1 +1,9 @@
-Cleaned version of East Maui package.
+Package: eastMaui
+Title: Performs East Maui Water and Habitat Modeling
+Version: 1.0
+Authors@R: person("Daniel", "Walker", email = "walker.dan890@gmail.com",
+                  role = c("aut", "cre"))
+Description: Contains all necessary information for East Maui modeling.
+Depends: R (>= 3.1.0)
+License: LICENSE
+LazyData: true
